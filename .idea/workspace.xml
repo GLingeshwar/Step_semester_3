@@ -33,9 +33,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Atmpin.executor": "Run",
     "Application.BMICalculator.executor": "Run",
     "Application.ExamHallSeatDuplicationChecker.executor": "Run",
     "Application.FirstNonRepeatingCharacter.executor": "Run",
+    "Application.InventoryParser.executor": "Run",
     "Application.MovieReviewWordLengthProfiler.executor": "Run",
     "Application.PalindromeChecker.executor": "Run",
     "Application.ReverseCustomerName.executor": "Run",
@@ -43,24 +45,27 @@
     "Application.TrafficSignalStreakAnalyzer.executor": "Run",
     "Application.TypingSpeedAccuracyChecker.executor": "Run",
     "Application.WarehouseInventoryBalancer.executor": "Run",
+    "Application.WordReversal.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "feature/session__1",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/linge/IdeaProjects/Step_semester_3/sem3work/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/linge/IdeaProjects/Step_semester_3/sem3work/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReverseCustomerName">
-    <configuration name="BMICalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week1_Strings.Class_Problem.BMICalculator" />
+  <component name="RunManager" selected="Application.VowelConsonantCounter">
+    <configuration name="Atmpin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2_StringOp.Assignment_Problem.Atmpin" />
       <module name="sem3work" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week1_Strings.Class_Problem.*" />
+          <option name="PATTERN" value="Week2_StringOp.Assignment_Problem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,25 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstNonRepeatingCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week1_Strings.Class_Problem.FirstNonRepeatingCharacter" />
+    <configuration name="InventoryParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2_StringOp.Assignment_Problem.InventoryParser" />
       <module name="sem3work" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week1_Strings.Class_Problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PalindromeChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week1_Strings.Class_Problem.PalindromeChecker" />
-      <module name="sem3work" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week1_Strings.Class_Problem.*" />
+          <option name="PATTERN" value="Week2_StringOp.Assignment_Problem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +99,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RockPaperScissors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week1_Strings.Class_Problem.RockPaperScissors" />
+    <configuration name="VowelConsonantCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2_StringOp.Class_Problem.VowelConsonantCounter" />
       <module name="sem3work" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week1_Strings.Class_Problem.*" />
+          <option name="PATTERN" value="Week2_StringOp.Class_Problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordReversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week2_StringOp.Assignment_Problem.WordReversal" />
+      <module name="sem3work" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week2_StringOp.Assignment_Problem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VowelConsonantCounter" />
+        <item itemvalue="Application.InventoryParser" />
+        <item itemvalue="Application.WordReversal" />
+        <item itemvalue="Application.Atmpin" />
         <item itemvalue="Application.ReverseCustomerName" />
-        <item itemvalue="Application.FirstNonRepeatingCharacter" />
-        <item itemvalue="Application.BMICalculator" />
-        <item itemvalue="Application.PalindromeChecker" />
-        <item itemvalue="Application.RockPaperScissors" />
       </list>
     </recent_temporary>
   </component>
