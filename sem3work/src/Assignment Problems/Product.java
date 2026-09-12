@@ -5,7 +5,7 @@ class Product {
         int n = nums.length;
         int[] answer = new int[n];
 
-        // Forward pass: product of elements to the left
+        
         int leftProduct = 1;
 
         for (int i = 0; i < n; i++) {
@@ -15,7 +15,7 @@ class Product {
             leftProduct = leftProduct * nums[i];
         }
 
-        // Backward pass: product of elements to the right
+        
         int rightProduct = 1;
 
         for (int i = n - 1; i >= 0; i--) {
